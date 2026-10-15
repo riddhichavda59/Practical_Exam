@@ -1,0 +1,11 @@
+Date,Product,Category,Price,Quantity_Sold,Total_Sales
+2026-01-02,Laptop,Electronics,45000,2,90000
+2026-01-03,Mouse,Accessories,600,10,6000
+2026-01-04,Keyboard,Accessories,1200,5,6000
+2026-01-05,Headphones,Electronics,1800,4,7200
+2026-01-06,Notebook,Stationery,80,25,2000
+2026-01-07,Pen Pack,Stationery,100,20,2000
+2026-01-08,Monitor,Electronics,12000,3,36000
+2026-01-09,USB Drive,Accessories,500,8,4000
+2026-01-10,Office Chair,Furniture,5500,2,11000
+2026-01-11,Desk,Furniture,8000,1,8000
